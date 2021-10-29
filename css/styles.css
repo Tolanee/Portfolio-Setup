@@ -11420,3 +11420,13 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.resume-btn{
+  color:  #6610f2;
+  margin-top: 2em;
+  padding: 10px;
+  border-radius: 5px;
+  
+}
+.resume-btn a{
+  text-decoration: none;
+}
